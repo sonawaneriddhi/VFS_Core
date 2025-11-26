@@ -12,10 +12,10 @@ The project provides a practical understanding of system calls, file handling, m
 
 ## The project provides hands-on understanding of:
 
-        File handling
-        System calls
-        Memory management
-        Operating System internals
+1. File handling
+2. System calls
+3. Memory management
+4. Operating System internals
 
 ### Key Features
         Custom Data Structures
