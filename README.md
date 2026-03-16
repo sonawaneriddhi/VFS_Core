@@ -1,4 +1,4 @@
-# CustomisedVirtualFileSystem
+# VirtualFileSystem - Core
 This project emulates file system functionality to create a virtual environment where users can perform file operations without interacting with a real disk
 
 Virtual File System (VFS) – Purely Implementation in C
